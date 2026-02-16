@@ -1,5 +1,3 @@
-## Full Lab Report (PDF)
-[Download Full Lab 1 Report](./Lab1-Active-Directory-Hardening.pdf)
 Lab 1 – Active Directory Hardening & Account Lockout Policy Enforcement
 Fuaineaitee Willie                
 
